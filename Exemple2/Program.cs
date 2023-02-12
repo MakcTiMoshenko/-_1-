@@ -3,11 +3,11 @@
 // 44,5,78 -> 78
 // 22,3,9 -> 22
 
-System.Console.Write("Введите первое число1 ");
+System.Console.Write("Введите первое число ");
 int number1 = Convert.ToInt32(Console.ReadLine());
-System.Console.Write("Введите второе число2 ");
+System.Console.Write("Введите второе число ");
 int number2 = Convert.ToInt32(Console.ReadLine());
-System.Console.Write("Введите второе число3 ");
+System.Console.Write("Введите третье число ");
 int number3 = Convert.ToInt32(Console.ReadLine());
 int max = number1;
 if (max < number2)
