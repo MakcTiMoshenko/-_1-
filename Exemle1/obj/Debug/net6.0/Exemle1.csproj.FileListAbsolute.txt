@@ -1,0 +1,15 @@
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\bin\Debug\net6.0\Exemle1.exe
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\bin\Debug\net6.0\Exemle1.deps.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\bin\Debug\net6.0\Exemle1.runtimeconfig.json
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\bin\Debug\net6.0\Exemle1.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\bin\Debug\net6.0\Exemle1.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.csproj.AssemblyReference.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.AssemblyInfoInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.AssemblyInfo.cs
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.csproj.CoreCompileInputs.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\refint\Exemle1.dll
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.pdb
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\Exemle1.genruntimeconfig.cache
+C:\Users\KpuBo\Desktop\GeekBrains\Изчение языков програм С#\C#\ДЗ_1 Знакомство с языками\-_1-\Exemle1\obj\Debug\net6.0\ref\Exemle1.dll
